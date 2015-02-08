@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta>
+	<title>Miki's Webpage</title>
+	<link rel="stylesheet" href="style.css" type="text/css" media="screen">
+</head>
+<body>
+	<section id='content'>
+	   <h1>Miki Tacchi</h1>
+	   <h2>[Junior Graphic Design Student]</h2>
+	   <p>[My Goals for the semester]</p>
+	</section>
+	
+	<p>1. To do well in all of my classes</p>
+	<p>2. To exercise daily</p>
+	<p>3. To stick to a healthy diet</p>
+	<p>4. To call my parents more often</p>
+	<p>5. To save my money better</p>
+	
+</body>
+</html>
