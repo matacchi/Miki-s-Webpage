@@ -18,5 +18,7 @@
 	<p>4. To call my parents more often</p>
 	<p>5. To save my money better</p>
 	
+	<img src="pic of my 21.jpg" />
+	
 </body>
 </html>
